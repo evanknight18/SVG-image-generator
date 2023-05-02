@@ -22,7 +22,7 @@ Install Node.js, the Inquirer package, and the Jest package for testing.
 
 ## Usage
 
-N/A
+Video DEMO: https://drive.google.com/file/d/1PTXetxHdGTJvBv-v-mfAfwDe8eM-wUN0/view
 
 ## License
 
